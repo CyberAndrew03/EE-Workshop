@@ -10693,22 +10693,17 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </variantdefs>
 <classes>
 <class number="0" name="default" width="0.3048" drill="0.508">
-<clearance class="0" value="0.508"/>
+<clearance class="0" value="0.254"/>
 </class>
 </classes>
 <parts>
 <part name="IC1" library="linear" library_urn="urn:adsk.eagle:library:262" deviceset="*555" device="N" package3d_urn="urn:adsk.eagle:package:16409/2" technology="NE" value="NE555N">
 <attribute name="MF" value=""/>
-<<<<<<< HEAD
-=======
 <attribute name="MOUSER#" value="595-TLC555CP"/>
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <attribute name="MPN" value="TLC555CP"/>
 <attribute name="OC_NEWARK" value="24M8296"/>
 </part>
 <part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="1K">
-<<<<<<< HEAD
-=======
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10721,7 +10716,6 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
 <part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="6.2K">
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10733,11 +10727,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<<<<<<< HEAD
-<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="6.2K">
-=======
 <part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="390">
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10749,11 +10739,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<<<<<<< HEAD
-<part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="390">
-=======
 <part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="910">
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <spice>
 <pinmapping spiceprefix="R">
 <pinmap gate="G$1" pin="1" pinorder="1"/>
@@ -10765,20 +10751,6 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<<<<<<< HEAD
-<part name="R10" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="910">
-<spice>
-<pinmapping spiceprefix="R">
-<pinmap gate="G$1" pin="1" pinorder="1"/>
-<pinmap gate="G$1" pin="2" pinorder="2"/>
-</pinmapping>
-</spice>
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
-</part>
-=======
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <part name="R9" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="1K">
 <spice>
 <pinmapping spiceprefix="R">
@@ -10787,10 +10759,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
-<<<<<<< HEAD
-=======
 <attribute name="MOUSER#" value="660-MF1/4DCT26A1001F"/>
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10802,10 +10771,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
-<<<<<<< HEAD
-=======
 <attribute name="MOUSER#" value="603-MFR-25FBF52-1K1"/>
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10817,10 +10783,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </pinmapping>
 </spice>
 <attribute name="MF" value=""/>
-<<<<<<< HEAD
-=======
 <attribute name="MOUSER#" value="603-MFR-25FBF52-620R"/>
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
@@ -10831,27 +10794,11 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <pinmap gate="G$1" pin="2" pinorder="2"/>
 </pinmapping>
 </spice>
-<<<<<<< HEAD
-<attribute name="MF" value=""/>
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
-</part>
-<part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="1.5K">
-<spice>
-<pinmapping spiceprefix="R">
-<pinmap gate="G$1" pin="1" pinorder="1"/>
-<pinmap gate="G$1" pin="2" pinorder="2"/>
-</pinmapping>
-</spice>
-=======
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <attribute name="MF" value=""/>
 <attribute name="MOUSER#" value="603-MFR-25FBF52-1K3"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
-<<<<<<< HEAD
-=======
 <part name="R5" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2" value="1.5K">
 <spice>
 <pinmapping spiceprefix="R">
@@ -10864,7 +10811,6 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
 </part>
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <part name="P+1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
@@ -10925,14 +10871,6 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </part>
 <part name="SW1" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1" value="MOMENTARY-SWITCH-SPST-PTH-6.0MM">
 <attribute name="MF" value=""/>
-<<<<<<< HEAD
-<attribute name="MPN" value=""/>
-<attribute name="OC_NEWARK" value="unknown"/>
-</part>
-<part name="LS1" library="buzzer" library_urn="urn:adsk.eagle:library:113" deviceset="F/HMB" device="" package3d_urn="urn:adsk.eagle:package:5269/1" value="AT-1220-TT-3V-2-R"/>
-<part name="BATT" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="CR1220" device="THM" package3d_urn="urn:adsk.eagle:package:6240666/1" value="3V">
-<attribute name="MF" value="KEYSTONE ELECTR"/>
-=======
 <attribute name="MOUSER#" value="653-B3F-1000"/>
 <attribute name="MPN" value=""/>
 <attribute name="OC_NEWARK" value="unknown"/>
@@ -10943,7 +10881,6 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <part name="BATT" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="CR1220" device="THM" package3d_urn="urn:adsk.eagle:package:6240666/1" value="3V">
 <attribute name="MF" value="KEYSTONE ELECTR"/>
 <attribute name="MOUSER#" value="534-3001"/>
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <attribute name="MPN" value="3001"/>
 <attribute name="OC_NEWARK" value="66F5623"/>
 </part>
@@ -10964,10 +10901,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <part name="X_3" library="ngspice-simulation" library_urn="urn:adsk.eagle:library:527439" deviceset="GND" device=""/>
 <part name="Q1" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="*-NPN-" device="TO92-E1" package3d_urn="urn:adsk.eagle:package:29916/2" value="2N2222">
 <attribute name="MF" value="FAIRCHILD SEMICONDUCTOR"/>
-<<<<<<< HEAD
-=======
 <attribute name="MOUSER#" value="833-PN2222A-AP"/>
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <attribute name="MPN" value="PN2222ATF"/>
 <attribute name="OC_NEWARK" value="58K2048"/>
 </part>
@@ -11175,27 +11109,6 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="-10.16" y="43.18" size="1.778" layer="96" display="off"/>
 <attribute name="MOUSER#" x="-10.16" y="43.18" size="1.778" layer="96" display="off"/>
 </instance>
-<<<<<<< HEAD
-<instance part="LS1" gate="G$1" x="50.8" y="91.44" smashed="yes" rot="R270">
-<attribute name="NAME" x="57.15" y="93.98" size="1.778" layer="95"/>
-<attribute name="VALUE" x="50.8" y="83.82" size="1.778" layer="96"/>
-</instance>
-<instance part="BATT" gate="G$1" x="-27.94" y="50.8" smashed="yes" rot="R90">
-<attribute name="NAME" x="-20.955" y="49.53" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="-22.86" y="52.07" size="1.778" layer="96"/>
-<attribute name="OC_NEWARK" x="-27.94" y="50.8" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="-27.94" y="50.8" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="-27.94" y="50.8" size="1.778" layer="96" display="off"/>
-</instance>
-<instance part="C2" gate="G$1" x="-10.16" y="43.18" smashed="yes">
-<attribute name="NAME" x="-9.144" y="43.815" size="1.778" layer="95"/>
-<attribute name="VALUE" x="-9.144" y="38.989" size="1.778" layer="96"/>
-<attribute name="OC_NEWARK" x="-10.16" y="43.18" size="1.778" layer="96" display="off"/>
-<attribute name="MF" x="-10.16" y="43.18" size="1.778" layer="96" display="off"/>
-<attribute name="MPN" x="-10.16" y="43.18" size="1.778" layer="96" display="off"/>
-</instance>
-=======
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 <instance part="X_1" gate="G$1" x="-27.94" y="17.78" smashed="yes"/>
 <instance part="X_2" gate="G$1" x="12.7" y="17.78" smashed="yes"/>
 <instance part="X_3" gate="G$1" x="48.26" y="68.58" smashed="yes"/>
@@ -11205,10 +11118,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="OC_NEWARK" x="45.72" y="78.74" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="45.72" y="78.74" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="45.72" y="78.74" size="1.778" layer="96" display="off"/>
-<<<<<<< HEAD
-=======
 <attribute name="MOUSER#" x="45.72" y="78.74" size="1.778" layer="96" display="off"/>
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 </instance>
 <instance part="P+5" gate="VCC" x="48.26" y="101.6" smashed="yes">
 <attribute name="VALUE" x="45.72" y="99.06" size="1.778" layer="96" rot="R90"/>
@@ -11219,10 +11129,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <attribute name="MPN" x="35.56" y="78.74" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="NAME" x="39.37" y="77.2414" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="39.37" y="82.042" size="1.778" layer="96" rot="R180"/>
-<<<<<<< HEAD
-=======
 <attribute name="MOUSER#" x="35.56" y="78.74" size="1.778" layer="96" rot="R180" display="off"/>
->>>>>>> d3de0ceae3cd04e1f0308f063fcd16f0ac41ac01
 </instance>
 </instances>
 <busses>

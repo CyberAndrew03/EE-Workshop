@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2018-12-15T23:38:48Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PianoDIY"
+        },
+        "Owner": "Andrew Collins <cyberandrew03@gmail.com>",
+        "Size": {
+            "X": 105.39,
+            "Y": 64.821
+        }
+    }
+}
